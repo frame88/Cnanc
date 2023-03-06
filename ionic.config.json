@@ -1,0 +1,7 @@
+{
+  "name": "cnanc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
